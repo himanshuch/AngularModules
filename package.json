@@ -1,0 +1,16 @@
+{
+  "name": "Prj1",
+  "version": "1.0.0",
+  "description": "Not available",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Himanshu",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0"
+  }
+}
